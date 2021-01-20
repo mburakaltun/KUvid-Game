@@ -1,0 +1,17 @@
+Stats
+TimeLeft 591
+Health 100
+Score 0.0
+PowerUpCounts 0 0 0 0
+AtomCounts 98 99 99 100
+ShieldCounts 17 18 17 19
+Shooter 320.0 95.0
+ShootersBullet Atom 1 310.41287 109.58142 95.0
+GameObjects
+PowerUp 2 454.1772 318.0
+PowerUp 1 81.939476 480.0
+Atom 0 247.82367 269.3662 105.0
+Atom 1 233.55432 322.6195 105.0
+Atom 2 270.68448 279.68552 100.0
+Atom 0 296.8162 264.98758 95.0
+end
